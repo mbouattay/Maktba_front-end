@@ -1,0 +1,458 @@
+
+
+
+.commandes{
+    box-sizing: border-box;
+    width: auto;
+    height: auto;
+    background: #FFFFFF;
+    border-radius: 8px;
+    }
+    .select-page{
+        display: flex;
+        gap:1em;
+    
+        margin-left: 10%;
+    }
+    .com1{
+        padding: 2%;
+    }
+    .boxtabl-com{
+        margin-left: -7%;
+    }
+    .titrePageCommande{
+    font-family:'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 40px;
+    color: #222222;
+    margin: 28px 0 0 28px ;
+    }
+    .filter-commande{
+     margin: 28px 0 0 -5px;
+    }
+    .filter-commande .filter-commande-items{
+        margin-left: 45px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+        color: #626262;
+        cursor: pointer;
+    }
+    .filter-commande .filter-commande-items1{
+        margin-left: 45px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 20px;
+        color: #222222;
+        cursor: pointer;
+    }
+    .sous-line-array{
+    width: 723px ;
+    border: 1px solid #EDEDED;
+    margin-left: 48px;
+    }
+    .search-inpute{
+    box-sizing: border-box;
+    width: 519px;
+    height: 52px;
+    background: #FFFFFF;
+    border: 1px solid #E1E1E1;
+    border-radius: 8px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #B1B1B1;
+    margin: 28px 0 0 42px;
+    }
+    .search-inpute02{
+        box-sizing: border-box;
+        width: 400px;
+        height: 52px;
+        background: #FFFFFF;
+        border: 1px solid #E1E1E1;
+        border-radius: 8px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 22px;
+        color: #B1B1B1;
+     margin-top: 3%;
+    
+        }
+    .array-header{
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        margin: 28px 0 0 53px;
+    }
+    .array-header .header-item{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #222222;
+    margin-left: -3px;
+    }
+    .vendeur-data{
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: flex-start;
+        
+    }
+    .nombreArticle-clm{
+        margin-top: -1%;
+    }
+    .titleProduit{
+        width :150%;
+        padding-bottom: 5px;
+        padding-left: 9px;
+    }
+    .articles{
+        margin-left: 48px;
+        display: flex;
+        flex-direction: row;
+    
+        margin-top: 1%;
+    
+    }
+    .commande-data{
+        display: flex;
+        margin-bottom: 32px;
+    } 
+    .articles .icondown{
+        margin-top: 7px;
+        margin-left: 7px;
+    }
+    .name_libraire{
+        width: 500%;
+    margin-left: 8px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+    color: #222222;
+    margin-top: 2px;
+    }
+    
+    .idcommande{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #222222;
+    margin-left: 77px;;
+    }
+    .datecommande{
+        margin-left:55px;;
+    }
+    .vendeur-data{
+        margin-left: 42px;
+        margin-top: 1%;
+    }
+    .Statut{
+        cursor: pointer;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 20px;    
+        text-align: center;
+        color: #2680C2; 
+        background: #DCEEFB;
+        border: 1px solid #4098D7;
+        border-radius: 8px;
+        width: 128px;
+    height: 32px;
+        padding: 6px 0px 0px 0px;
+        margin-left: 30px;
+    }
+    .annule{
+        cursor: pointer;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 20px;    
+        text-align: center;
+        color: #BA2525; 
+        background: #FFEEEE;
+        border: 1px solid #D64545;
+        border-radius: 8px;
+        width: 128px;
+    height: 32px;
+        padding: 6px 0px 0px 0px;
+        margin-left: 30px;
+    }
+    
+    .livre{
+        cursor: pointer;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 20px;    
+        text-align: center;
+        color: #3F9142; 
+        background: #E3F9E5;
+        border: 1px solid #57AE5B;
+        border-radius: 8px;
+        width: 128px;
+    height: 32px;
+        padding: 6px 0px 0px 0px;
+        margin-left: 30px;
+    }
+    .Tarification{
+        padding-left: 35px;
+        width: 15%;
+    }
+    .pagination1-com{
+        display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 1em;
+    }
+    .pagination-com{margin-top: -7%;}
+    .row214-comn{
+        margin-left: 5%;
+        display: flex;
+        gap: 2em;
+    }
+    .Article-data{
+        display: flex;
+        flex-direction: column;
+        width: 198px;
+        margin-left: 153px;
+        margin-top: 5px;
+        padding-bottom: 4%;
+    }
+    .Article-data-none{
+        display: none;
+    }
+    .article{
+        display: flex;
+        flex-direction: row;
+    }
+    .Article-data .qte3{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 24px;
+    color: #222222;
+    
+    }
+    .Article-data img{
+    height: 24px;
+    width: 24px;
+    border-radius: 4px;
+    
+    }
+    .Article-data p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 24px;
+    color: #222222;
+    }
+    
+    .nombre-page{
+    width: 40%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #222222;
+    }
+    .select-page{
+        width: 60%;
+    }
+    .select-lable{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: right;
+    color: #222222;
+    margin: 17px 28px 0 0;
+    }
+    .Select-comn{
+    box-sizing: border-box;
+    width: 85px;
+    height: 52px;
+    background: #FFFFFF;
+    border: 1px solid #E2E5EA;
+    border-radius: 8px;
+    margin-right: 0px;
+    padding: 3%;
+    }
+    .more-cd{
+    
+         cursor: pointer;
+         transform: rotate(90deg)
+        
+     }
+    
+    
+    .menuitem-cd{
+        height: 50px;
+    }
+    .txtmenu-cd{
+    margin-left: 6%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #222222;
+    
+    }
+    .menu-cd{
+        margin-left: 70%;
+        margin-top: -12%;
+        display: flex;
+        flex-direction: column;
+        gap: 1em;
+    }
+    .close{
+        margin-left: 467px;
+        margin-top: -20px;
+    }
+    .Model-titre{
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 32px;
+        line-height: 39px;
+        color: #222222;
+      padding-bottom: 2%;
+      margin-top: 1%;
+    }
+    .Modeltitre-com{
+    display: flex;
+    justify-content: center;
+    }
+    
+    .prod{
+        display: flex;
+        flex-direction: row;
+    }
+    .prod img{
+        width: 50px;
+        height: 50px;
+    }
+    .bnt3-page4{
+        width: 156px;
+    height: 48px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    cursor: pointer;
+    
+    }
+    .txtbnt40-page{
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 22px;
+        margin-top: -1%;
+        text-align: center;
+        color: #FFFFFF;
+    }
+    .bnt40-page4{
+        width: 156px;
+        height: 48px;
+        background: #D64545;
+            border-radius: 8px;
+        cursor: pointer;
+        border: none;
+    }
+    .minirow2-page4{
+        display: flex;
+        flex-direction: row;
+        gap: 1em;
+        margin-top: 7%;
+        margin-left: 17%;
+    
+    }
+    .txtmodal2-page4{
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 28px;
+        line-height: 34px;
+        text-align: center;
+        color: #222222;
+        
+        }
+    .flex-end{
+        display: flex;
+        justify-content: end;
+        }
+    .txtmadal-comnd03{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    color: #9E9E9E;
+    }
+    .txtmadal-comnd02{
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 22px;
+        color: #9E9E9E;
+        margin-left: 3%;
+        }
+    .liste-prod1{
+        margin-top: 30px;
+    }
+    .scroll-maodalc{
+        margin-top: 10px;
+        height: 280px;
+        overflow: auto;
+        text-align: justify;
+        padding: 20px;
+        margin-left: -15px;
+        overflow-x: hidden;
+        display: flex;
+        flex-direction: column;
+        gap: 2em;
+    }
+    .scroll-maodalc::-webkit-scrollbar {
+    width: 12px;
+    }
+    .titre-model-box{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13.5px;
+    line-height: 21px;
+    color: #222222;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    max-width: 80px;
+    max-height: 20px;
+    width: 80px;
+    }

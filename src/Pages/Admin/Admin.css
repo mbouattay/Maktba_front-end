@@ -1,0 +1,169 @@
+.Admin{
+    display: flex;
+    flex-direction: row;
+    background-color: #F7F7F7;
+   
+}
+.xtet{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 20px;
+margin-left: 14%;
+margin-top: 12%;
+text-transform: uppercase;
+
+color: #515151;
+}
+.rowadm{
+    display: flex;
+    gap: 1em;
+}
+.circleadmin{
+
+    width: 12px;
+    height: 12px;
+margin-top: 50%;
+    background: #E9B949;
+    border-radius: 100%;
+}
+.header{
+   display: none;
+   visibility: hidden;
+}
+.footer{
+    display: none;
+}
+.side-bar{
+width: 256px;
+height: 1992px;
+background: #FFFFFF;
+border-right: 1px solid #EEEDF2;
+}
+.side-bar .logo-side{
+width: 85.91px;
+height: 36px;
+margin-top: 34px;
+margin-left: 85px;
+}
+.txt0214{
+    width: 200%;
+    margin-top: 4%;
+}
+.side-bar .link-side-bar .link{
+   display: flex;
+   flex-direction: row;
+gap: 1em;
+   margin-top: 28px;
+   padding: 14px 30px 14px 30px;
+   background-color: #FCEFC7;
+   border-left: #C99A2E solid 4px;
+   cursor: pointer;
+   color: #222;
+}
+.row-admin{
+    display: flex;
+    gap: 1em;
+}
+.circule{
+background: #E9B949;
+border-radius: 100%;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 5px;
+line-height: 12px;
+text-align: center;
+color: #222222;
+Width:20px;
+Height:20px;
+}
+.deconnecter-box{
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    width: 216px;
+    height: 48px;
+    background: #FFFFFF;
+    border: 1px solid #FFEEEE;
+    border-radius: 8px;
+    margin-left: -3%;
+    margin-top: 28px;
+    cursor: pointer;
+}
+.deconnecter-box .iconOut{
+    margin-top: 11px;
+    margin-left: 32px;
+}
+.deconnecter-box .outText{
+font-family:'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+color: #E66A6A;
+}
+.linknone{
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+    margin-top: 28px;
+    padding: 14px 30px 14px 30px;
+    cursor: pointer;
+}
+.side-bar .link-side-bar  p{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+color: #7E7E7E;
+}
+.scroll{
+    height: auto;
+    overflow: auto;
+    text-align: justify;
+    padding: 20px;
+    width: 100%;
+    height: 800px;
+    overflow-x: hidden;
+}
+.scroll::-webkit-scrollbar {
+width: 12px;
+}
+.scroll2{
+    height: auto;
+    overflow: auto;
+    text-align: justify;
+    height: 680px;
+    overflow-x: hidden;
+}
+.scroll2::-webkit-scrollbar {
+width: 1px;
+}
+.profile-container1{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    width: 256px;
+height: 48px;
+cursor: pointer;
+}
+.profile-container1 .profil{
+height: 24px;
+width: 24px;
+border-radius: 4px;
+margin-top: 11px;
+margin-left: 35px;
+
+}
+.profile-container1 .titreProfile{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+color: #7E7E7E;
+margin-left: 30px;
+}

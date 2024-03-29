@@ -1,0 +1,50 @@
+.cols-becam{
+    width: 100%;
+}
+.plusbnt{
+    margin-left: 15%;
+ 
+}
+
+.minpuls{
+    display: none;
+}
+.desbecam3{
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #222222;
+}
+
+.deslste{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+margin-left: 5%;
+/* or 143% */
+width: 618px;
+height: 40px;
+color: #626262;
+
+}
+.typography{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+color: #222222;
+}
+.typographyReponse{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+color: #626262;
+}

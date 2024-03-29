@@ -1,0 +1,54 @@
+.row1-int{
+    display: flex;
+    flex-direction: row;
+    gap: 6.5em;
+}
+.row2-int{
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+}
+.bnt0-int{
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+    cursor: pointer;
+    width: 138px;
+height: 48px;
+padding: 2%;
+background: #FFFFFF;
+border: 1px solid #515151;
+border-radius: 8px;
+}
+.txt0-int{
+    width: 72px;
+margin-top: 0.5%;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 150%;
+
+color: #515151;
+}
+.input-int{
+    width: 440px;
+height: 48px;
+
+
+background: #FFFFFF;
+
+border: 1px solid #E1E1E1;
+border-radius: 8px;
+}
+.select-int{
+    width: 125px;
+height: 36px;
+margin-top: 2%;
+background: #FFFFFF;
+border: 1px solid #CFCFCF;
+border-radius: 8px;
+}
+.txt2-int{
+    width: 100%;
+}

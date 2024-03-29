@@ -1,0 +1,81 @@
+
+.img-spi{
+
+Width:171.82px;
+Height:72px;
+margin-top: 5%;
+}
+
+.spinier{
+  padding: 5%;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+
+  gap:3em;
+}
+.loding-box{
+  Width:  296px;
+  Height:  4px;
+background: #F7F7F7;
+border-radius: 64px;
+}
+.loding2-box{
+  Width:  29px;
+  Height:  4px;
+  background: #E9B949;
+border-radius: 64px;
+}
+
+
+
+
+@keyframes progressAnimationStrike {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+.progress2 {
+  Width:  325px;
+  Height:  4px;
+  background: #F7F7F7;
+  border-radius: 64px;
+}
+
+.progress-bar2 {
+
+  Height:  4px;
+  border-radius: 30px;
+  transition: 0.4s linear;
+  transition-property: width, background-color;
+}
+
+.progress-moved .progress-bar2 {
+  background: #E9B949;
+  border-radius: 64px;
+  animation: progressAnimation 10s;
+}
+
+@keyframes progressAnimation {
+  0% {
+    width: 0%;
+    background-color: #E9B949;;
+  }
+  50% {
+    width: 50%;
+    background-color: #E9B949;;
+  }
+  80% {
+    width: 80%;
+    background-color: #E9B949;;
+  }
+  100% {
+    width: 100%;
+    background-color: #E9B949;;
+  }
+}

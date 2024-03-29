@@ -1,0 +1,253 @@
+.rowglob{
+    display:flex;
+    flex-direction: column;
+    gap:2em;
+    padding: 2%;
+}
+.box-ajout{
+    width: 1047px;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    gap:6em;
+    background: #FFFFFF;
+    border-radius: 8px;
+    padding: 4%;
+}
+.txt-int{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 48px;
+color: #222222;
+}
+.inpu-a{
+    width: 500px;
+height: 48px;
+
+background: #FFFFFF;
+
+border: 1px solid #E1E1E1;
+border-radius: 8px;
+}
+.txtuplod02-ajoute{
+width: 150%;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 24px;
+
+color: #222222;
+}
+.globalboxuplod-ajout{
+    padding: 5%;
+}
+.rowuplod01-ajout{
+    display: flex;
+    flex-direction: row;
+    gap:10em;
+}
+.labelup{cursor: pointer;}
+.txtuplod03-ajoute{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 24px;
+color: #7E7E7E;
+}
+.uplod{
+    visibility: hidden;
+    display: none;
+}
+.cube-ajout{
+width: 40px;
+height: 40px;
+background: #FCEFC7;
+border-radius: 5px;
+display: flex;
+justify-content: center;
+}
+.contbox-ajout{
+    margin-top: 20%;
+ 
+}
+.col-ajout{
+    display: flex;
+    flex-direction: column;
+    gap:1em;
+}
+
+.txt-ajout{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+color: #222222;
+}
+.txt1-ajout{
+    width: 324px;
+height: 32px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* or 133% */
+
+
+color: #222222;
+}
+.mguplod-ajout{
+    Width:24px;
+Height:24px;
+    background-blend-mode: multiply, normal;
+mix-blend-mode: normal;
+border-radius: 4px;
+
+}
+.rol01-ajout{
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+}
+.down-ajoutmin{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 2em;
+cursor: pointer;
+margin-top: 1%;
+}
+.downlod-ajout{
+ 
+    display: flex;
+
+    flex-direction: column;
+    gap: 2em;
+background: #FFFFFF;
+Width:500px;
+Height:166px;
+border: 1px dashed #626262;
+border-radius: 8px;
+}
+.txt3-ajout{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+text-align: center;
+margin-top: -2%;
+color: #222222;
+
+}
+.downlod2-ajout{
+    width: 40px;
+height: 40px;
+margin-top: 8%;
+margin-left: 45%;
+display: flex;
+justify-content: center;
+padding-top: 1%;
+cursor: pointer;
+background: #E1E1E1;
+border-radius: 4px;
+}
+.col2-ajout{
+    display: flex;
+    flex-direction: column;
+    gap:3em
+}
+.col3-ajout{
+    display: flex;
+    flex-direction: column;
+
+    gap:1em
+
+}
+.bnt01-ajout{
+width: 132px;
+height: 48px;
+background: #FFFFFF;
+cursor: pointer;
+border: 1px solid #222222;
+border-radius: 8px;
+}
+.txtbnt01-ajout{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+text-align: center;
+margin-top: -1%;
+color: #222222;
+}
+.txtbnt02-ajout{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: -1%;
+    text-align: center;
+    color: #FFFFFF;
+}
+.txt-select-ajout{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+color: #222222;
+}
+.bnt02-ajout{
+    width: 132px;
+    height: 48px;
+    background: #222222;
+    border-radius: 8px;
+    cursor: pointer;
+    }
+.rowbnt-ajout{
+    display: flex;
+    flex-direction: row;
+justify-content: end;
+    gap:1em 
+}
+
+.radio-Tf1{
+    width: 24px;
+  height: 24px;
+  }
+  
+  input[name="r0"]:checked {
+    width: 24px;
+    height: 24px;
+    border: 10px solid #F7D070 !important;
+    appearance: none;
+    border-radius:50%;
+  }
+
+  .txt4-ajout{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 16px;
+    color: #222222;
+  }
+.txt2-mody{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 24px;
+color: #222222;
+margin-top: 2%;
+}
+  

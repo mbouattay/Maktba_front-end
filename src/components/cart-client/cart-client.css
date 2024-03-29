@@ -1,0 +1,47 @@
+.text-about{
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    margin-top: 8%;
+    color: #222222;
+    margin-left: -117px;
+}
+.ispa{
+    margin-left: 15%;
+}
+.txt10-about{
+
+    font-family: 'Inter';
+font-style: italic;
+font-weight: 500;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+Width:276px;
+Height:166px;
+
+color: #7E7E7E;
+
+}
+.txt11-about{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+margin-top: 6%;
+height: 22px;
+color: #222222;
+margin-left: 30%;
+}
+
+.img-avt{
+
+    mix-blend-mode: normal;
+    Width :   98px;
+    Height:    98px;
+    margin-left: 41%;
+}

@@ -1,0 +1,105 @@
+.titre{
+    color: #222222;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    text-transform: capitalize;
+    margin-top: 65px;
+    margin-left: 165px;
+}
+.produit{
+    margin-left: 165px;
+    margin-top: 65px; 
+    width: auto; 
+}
+.produit .item {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    color: #222222;
+   
+}
+.Continuer{
+    margin-left: 165px;
+    margin-top: 40px;
+    margin-bottom: 107px;
+    box-sizing: border-box;
+    width: 249px;
+    height: 52px;
+    background: #FFFFFF;
+    border: 1px solid #C4CBCD;
+    border-radius: 8px
+}
+.Continuer .icon1{
+    font-size: 12px;
+    margin-top: 19px;
+    margin-left: 26px;
+    color: #757E78;
+}
+.Continuer a{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 22px;
+color: #222222;
+margin-top: 15px;
+}
+.Cart{
+    height: auto;
+}
+.box3 p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #222222;
+    
+   
+}
+.btn3{
+    color:#757E78 ; 
+    margin-left: 165px; ;    
+}
+
+.scroll{
+        width: 800px;
+        height: 150px;
+        overflow: auto;
+        text-align: justify;
+        padding: 20px;
+        height: 580px;
+        margin-left: -15px;
+        overflow-x: hidden;
+      
+}
+.scroll::-webkit-scrollbar {
+    width: 12px;
+}
+
+
+.Qte1{
+    margin-left: 332px;
+}
+.total1{
+    margin-left: 145px;
+}
+.box3{
+    margin-top: 16px;
+}
+@media (max-width: 876px) {
+    .Continuer{
+        margin-left: 68px;
+    }
+    .resume{
+        margin-left: 44px;
+    }
+    .produit{
+        display: none;
+    }
+}

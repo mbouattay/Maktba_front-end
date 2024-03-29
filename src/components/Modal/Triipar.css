@@ -1,0 +1,88 @@
+.container-modal{
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+.css-187mznn-MuiSlider-root{
+max-width: 100%;
+}
+
+.boxval-modal{
+    display: flex;
+    flex-direction: row;
+    gap: 16em;
+}
+.val-modal{
+    width: 36px;
+height: 32px;
+background: #F7F7F7;
+border-radius: 8px;
+}
+.txt-modall{ 
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+color: #222222;
+padding-bottom: 3%;
+}
+.txt-selectmodal{font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #222222;}
+
+    .inpnumber-modal{
+
+        width: 144px;
+height: 48px;
+
+background: #FFFFFF;
+border: 1px solid #E4E7EB;
+border-radius: 4px;
+    }
+    .min-modal{
+        width: 9px;
+height: 48px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 48px;
+color: #B1B1B1;
+    }
+    .box-32modal{
+        display: flex;
+        flex-direction: row;
+        gap: 1em;
+    }
+    .bnt-modal3{
+ width: 296px;
+height: 48px;
+cursor: pointer;
+background: #FFFAEB;
+border: 1px solid #F7D070;
+border-radius: 4px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+gap: 1em;
+padding-top: 4%;
+    }
+    .txtbnt-modal32{
+        margin-top: 5%;
+    }
+    .bnt2-modal23{
+        width: 296px;
+height: 48px;
+background: #F7D070;
+border-radius: 4px;
+border: none;
+cursor: pointer;
+    }
+    input[type=number]::-webkit-inner-spin-button {
+        opacity: 1;
+      }
+   

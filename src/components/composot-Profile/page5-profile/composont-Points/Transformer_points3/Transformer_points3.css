@@ -1,0 +1,47 @@
+.prag-Tf3{
+    width: 483px;
+height: 124px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+color: #222222;
+}
+.txth-Tf3{
+   
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 28px;
+    color: #222222;
+}
+
+Tf1{
+    width: 824px;
+  height: auto;
+  padding: 2%;
+  padding-left: 4%;
+  background: #FFFFFF;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap:2em;  
+}
+.row-Tf1{
+cursor: pointer;
+display: flex;
+gap: 1em;
+}
+
+.txt-Tf1{
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 40px;
+color: #222222;
+
+}

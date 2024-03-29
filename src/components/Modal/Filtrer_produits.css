@@ -1,0 +1,63 @@
+.txtbnt-mf{ 
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+color: #222222;
+padding-bottom: 2%;
+}
+.container-modal{
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+.txtbnt-mf2{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+color: #222222;
+padding-bottom: 2%;
+padding-top: 2%;
+}
+.minirow-mf{
+    display: flex;
+    flex-direction: row;
+    gap: 3em;
+}
+.txtbnt-mf1{
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+color: #626262;
+
+}
+.radio-mf1{
+    width: 24px;
+height: 24px;
+margin-top: -5%;
+}
+input[name="r1"]:checked {
+    width: 24px;
+    height: 24px;
+    border: 6px solid #F7D070 !important;
+    appearance: none;
+    border-radius:50%;
+}
+input[name="r2"]:checked {
+    width: 24px;
+    height: 24px;
+    border: 6px solid #F7D070 !important;
+    appearance: none;
+    border-radius:50%;
+}
+.radi-modal{
+    display: flex;
+    justify-content: end;
+    width: 50%;
+}
+.txtwidthbnt-modal{width: 500%;}

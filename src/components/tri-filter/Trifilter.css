@@ -1,0 +1,82 @@
+
+.gr-shop2{
+
+flex-direction: row;
+display: flex;
+gap: 25em;
+width: 822px;
+height: 64px;
+background: #FFFFFF;
+box-shadow: 0px 5px 30px rgba(207, 207, 207, 0.2);
+border-radius: 12px;
+margin-top:1.5%;
+}
+.arrow-tri{
+    margin-left: -9%;
+    margin-top: 3%;
+}
+.arrow-tri1{
+    margin-left: 3%;
+    margin-top: 3%;
+
+}
+.txt-shope-2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: right;
+    color: #252525;
+   margin-top:24px;
+   width: 145px;
+}
+.arrow-tri2{
+    margin-left: 10%;
+}
+.txt-select{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 16px;
+color: #222222;
+margin-top: 10%;
+
+}
+.roww-trifilter{
+    flex-direction: row;
+display: flex;
+text-align: center;
+}
+.arow-trifilter{
+    margin-top: 110%;
+}
+.row-trifil{
+    flex-direction: row;
+    display: flex; 
+    gap: 3em; 
+}
+.txt2-tirfelter{
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 20px;
+color: #222222;
+}
+.Tri-fl{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 20px;
+margin-top: 40%;
+color: #222222;
+}
+.row2-trifil{
+    flex-direction: row;
+    display: flex; 
+    gap: 1em; 
+}

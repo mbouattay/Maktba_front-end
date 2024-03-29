@@ -1,0 +1,378 @@
+.Detailcomnder-Fornisseuer{
+    padding: 2%;
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+}
+.bnt-dcFo{
+    width: 200px;
+    height: 40px;
+    left: 1212px;
+    top: 76px;
+    
+
+    
+    background: #E3F9E5;
+
+    
+    border: 1px solid #05400A;
+    border-radius: 8px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+cursor: pointer;
+text-align: center;
+color: #05400A;
+}
+.row12-dcFo{
+    display: flex;
+    flex-direction: row;
+  gap: 37em;
+}
+.txt4box4-dcF{
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #7C5E10;
+}
+.col05-dcF{
+    display: flex;
+    flex-direction: column;
+    gap: 2em; 
+}
+.colbox4-dcF{
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+.txt1-dcF{
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 40px;
+color: #222222;
+}
+.rowbox-dcF{
+    display: flex;
+    flex-direction: row;
+    gap:1em;
+}
+.txtbox-dcF{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+color: #222222;
+
+}
+
+.row1-dcF{
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+}
+.col1-dcF{
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+}
+.border-dcF{
+    width: 8px;
+height: 132px;
+
+background: #F7D070;
+border-radius: 8px 0px 0px 8px;
+}
+.colbox1-dcF{
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    margin-top: 4%;
+}
+.box1-dcF{
+width: 362px;
+height: 132px;
+background: #FFFFFF;
+border-radius: 8px;
+display: flex;
+flex-direction: row;
+gap: 1em;
+
+}
+.txtbox1-dcFoo{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 28px;
+color: #222222;
+}
+.ul-dcF{
+    list-style:disc;
+    padding-left: 5%;
+}
+.txtli-dcF{
+    width: 300%;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #222222;
+mix-blend-mode: normal;
+}
+.txtspanli-dcF{
+ 
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+color: #4098D7;
+mix-blend-mode: normal;
+}
+.box3-dcF{
+    width: 348px;
+height: auto;
+background: #FFFFFF;
+border-radius: 8px;
+display: flex;
+flex-direction: column;
+gap: 1.7em;
+padding-left: 4%;
+padding-top: 5%;
+padding-bottom: 5%;
+}
+.box2-dcF{
+width: 348px;
+height: 252px;
+background: #FFFFFF;
+border-radius: 8px;
+display: flex;
+flex-direction: column;
+gap: 1.7em;
+padding-left: 4%;
+padding-top: 5%;
+}
+.cirl-dcF{
+    position: relative;
+    width: 16px;
+height: 16px;
+border-radius: 100%;
+background: #57AE5B;
+margin-top: 1%;
+}
+.cirl2-dcF{
+    position: relative;
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background: #4098D7;
+    margin-top: 1%;
+}
+th {
+    text-align: left;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #7E7E7E;
+    border-top: #F7F7F7 solid 1px;
+    height: 56px;
+}
+td {
+    height: 60px;
+    border-top: #F7F7F7 solid 2px;
+}
+.line-dcFo{
+position: relative;
+left:-13.7%;
+top:-42%;
+    width: 107px;
+height: 0px;
+border: 1px dashed #9E9E9E;
+transform: rotate(90deg);
+}
+.cirl3-dcF{
+    position: relative;
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background: #F7D070;
+    margin-top: 1%;
+}
+.txt3box3-dcF{
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #222222;
+mix-blend-mode: normal;
+}
+.txtbox2-dcF{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    color: #222222;
+    
+}
+.img-dcF{
+    Width:24px;
+Height:24px;
+border-radius: 100px;
+
+}
+.minirow-dcF{
+    display: flex;
+flex-direction: row;
+gap: 1em;
+}
+
+.txt1box2-dcF{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #222222;
+mix-blend-mode: normal;
+}
+.txt1box3-dcF{ 
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #222222;
+mix-blend-mode: normal;
+}
+.txt4box3-dcF{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 24px;
+color: #222222;
+mix-blend-mode: normal;
+
+}
+.txtbox5-dcF{
+ font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 28px;
+color: #F7F7F7;
+margin-top: 3%;
+}
+.box4-dcF{
+    display: flex;
+flex-direction: column;
+gap: 1.7em;
+width: 728px;
+height: 570px;
+background: #FFFFFF;
+border-radius: 8px;
+padding-top: 1.5%;
+padding-left: 3%;
+}
+.rowbox4-dcF{
+    display: flex;
+    flex-direction: row;
+    gap: 15em;
+}
+.txtbox4-dcF{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+color: #626262;
+
+}
+.linebox4-dcF{
+width: 706px;
+height: 0px;
+border: 1px solid #EDEDED;
+}
+.row2box4-dcF{
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+}
+.imgbox4-dcF{
+Width:112px;
+Height:112px;
+mix-blend-mode: normal;
+border-radius: 8px;
+}
+.txt3box4-dcF{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #626262;
+    margin-top: 90%;
+    }
+    .widthtd-dcF{
+        width: 41%;
+    }
+    .widthtd1-dcF{
+        width: 37%;
+    }
+    .box5-dcF{
+width: 738px;
+height: 164px;
+background: #222222;
+border-radius: 8px;
+    }
+    .rowbox5-dcF{
+display: flex;
+flex-direction: row;
+justify-content: center;
+gap:1em;
+    }
+    .txttab-dcF{
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 24px;
+    
+        color: #222222;
+    }
+    .bntbox5-dcF{
+width: 160px;
+height: 48px;
+background: #626262;
+border-radius: 8px;
+color: #FFFFFF;
+cursor: pointer;
+    }
+    .bntbox6-dcF{
+        width: 160px;
+        height: 48px;
+        background: #FFFFFF;
+        border-radius: 8px;
+       cursor: pointer;
+            }
+            .row01box5-dcF{
+                display: flex;
+                flex-direction: column;
+                text-align: center;
+                gap: 2em;
+            }

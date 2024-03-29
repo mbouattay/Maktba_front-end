@@ -1,0 +1,144 @@
+.txt-listeF{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+    color: #222222;
+    
+}
+.backnovo-listeF{
+    background: #FFFAEB;
+cursor: pointer;
+border-bottom: 1px solid #F7F7F7;
+}
+.backnovo-listeF0{cursor: pointer;
+}
+
+.bnt01-listeF{
+width: 88px;
+height: 32px;
+background: #B6E0FE;
+border-radius: 36px;
+border: none;
+cursor: pointer;
+}
+.txtbnt01-listeF{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+text-align: center;
+margin-top: -1%;
+color: #05400A;
+}
+
+
+.txtbnt02-listeF{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+text-align: center;
+margin-top: -1%;
+color: #003E6B;
+}
+.bnt02-listeF{
+    width: 88px;
+    height: 32px;
+    background: #C1EAC5;
+        border-radius: 36px;
+    border: none;
+    cursor: pointer;
+    }
+.liste-listeF{
+    padding: 2%;
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+th {
+    text-align: left;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #7E7E7E;
+    border-top: #F7F7F7 solid 1px;
+    height: 56px;
+}
+td {
+    height: 60px;
+    border-top: #F7F7F7 solid 2px;
+}
+.box01-lv{
+    width: auto;
+height: auto;
+background: #FFFFFF;
+border-radius: 8px;
+display: flex;
+flex-direction: column;
+gap: 1em;
+padding: 2%;
+}
+.pagination1-listeF{
+    display: flex;
+flex-direction: row;
+gap: 1em;
+}
+.page-listeF{
+    display: flex;
+justify-content: center;
+}
+.txttabs-listeF{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+width:100%;
+}
+
+
+
+
+.tdwidth{
+    width: 15%;
+}
+.tdwidth02{
+    width: 27%;
+}
+.img1-listeF{
+    background-blend-mode: multiply, normal;
+mix-blend-mode: normal;
+border-radius: 4px;
+Width:40px;
+Height:40px;
+}
+.row-listeF{
+    display: flex;
+    flex-direction:row ;
+    gap: 1em;
+
+}
+.tdwidth1-listeF{
+    width: 14%;
+}
+.txt02-listeF{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+text-align: left;
+color: #7C5E10;
+
+}
+.row01-listeF{
+    display: flex;
+    flex-direction:column ;
+    gap: 3.5em;
+}

@@ -1,0 +1,105 @@
+.Profile{
+    padding: 10%;
+    padding-bottom: 30%;
+    background: #F7F7F7;
+}
+.col1-profile{
+    flex-direction: column;
+    display: flex;
+    text-align: left;
+    gap: 3.5em;
+}
+.row2-profile{
+    flex-direction: row;
+    display: flex;
+    text-align: left;
+    gap: 5em;
+}
+.bnt-pro2{
+    width: 229px;
+height: 44px;
+border: none;
+    cursor: pointer;
+background: #FFFFFF;
+border-radius: 8px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+color: #9E9E9E;
+}
+.bnt-pro{
+    width: 229px;
+    height: 44px;
+    border: none;
+    background: #F7D070;
+    border-radius: 8px;
+    cursor: pointer;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+
+color: #222222;
+}
+
+
+.row1-profile{
+    flex-direction: row;
+    display: flex;
+    text-align: left;
+    gap:1em;
+
+}
+.txt-profile1{
+font-family: 'Merriweather';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 30px;
+text-transform: capitalize;
+color: #222222;
+}
+
+.carts{
+    flex-direction: column;
+    display: flex;
+    gap: 1em;
+    text-align: center;
+    width: 286px;
+    height: 374px;
+    background: #FFFFFF;
+    border-radius: 16px;
+    padding: 7%;
+ 
+}
+
+.txt1-carts2{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 40px;
+color: #222222;
+}
+.col2-profile{
+    flex-direction: column;
+    display: flex;
+    text-align: left;
+    gap: 1em;
+}
+
+
+.txtbnt-pro2{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 22px;
+text-align: center;
+margin-top: -2%;
+color: #FFFFFF;
+
+}

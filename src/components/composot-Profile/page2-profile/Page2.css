@@ -1,0 +1,205 @@
+.favorie{
+    width: 844px;
+height: auto;
+
+background: #FFFFFF;
+border-radius: 8px;
+}
+.row-favo{
+    flex-direction: row;
+    display: flex;
+    gap:21em;
+    
+}
+.closebnt-favo{
+    cursor: pointer;
+    margin-top: 15%;
+}
+.lin-favo{
+
+border: 1px solid #EDEDED;
+margin-top: -27px;
+}
+.colline-box{
+    display: flex;
+    flex-direction: column;
+    
+}
+.lin-favo2{
+border: 1px solid #EDEDED;
+width: 730px;
+}
+.txt2-favo{
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+
+color: #222222;
+
+}
+.col1-favo{
+    flex-direction: column;
+    display: flex;
+    text-align: left;
+    gap: 2.5em;
+    
+padding: 5%;
+}
+.txt1-favo{
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 40px;
+color: #222222;
+}
+.img1-favo{
+    Width:112px;
+    Height:112px;
+  
+}
+.row2-favo{
+    flex-direction: row;
+    display: flex;
+    gap:1em;
+    width:358px;
+}
+.col2-favo{
+    flex-direction: column;
+    display: flex;
+    gap: 0.5em;
+    margin-top:5%;
+  
+}
+.txt3-favo{
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+color: #222222;
+text-overflow: ellipsis;
+overflow: hidden;
+max-width: 110px;
+max-height: 18px;
+}
+
+.row4-favo{
+    flex-direction: row;
+    display: flex;
+    gap: 1em;
+
+}
+
+.txtlink-favo{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 16px;
+color: #626262;
+margin-top: 2%;
+height: 16px;
+width: 154px;
+
+
+}
+.rowboxfavo-page2{
+    display: flex;
+    margin-top: 3%;
+    margin-left: 1%;
+}
+.total-avis{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 140%;
+color: #818181;
+
+}
+.stars-favo{
+    display: flex;
+}
+.row6-favo{
+    flex-direction: row;
+    display: flex;
+       gap: 4em;;
+
+}
+.prix-favo{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 20px;
+color: #222222;
+margin-top: 30%;
+margin-left: -28px;
+
+
+}
+.input-pro{
+width: 400px;
+height: 48px;
+background: #FFFFFF;
+border: 1px solid #E1E1E1;
+border-radius: 8px;
+}
+.row7-favo{
+    flex-direction: row;
+    display: flex;
+    gap: 15em;
+    margin-top: 6%;
+}
+.shop-favo{
+    background: #F7D070;
+border-radius: 6px;
+width: 32px;
+height: 32px;
+
+}
+.shopcont-favo{
+    margin-top: 15%;
+    cursor: pointer;
+    margin-left: 15%;
+}
+.scroll-container{
+    width: 800px;
+    height: 150px;
+    overflow: auto;
+    text-align: justify;
+    padding: 20px;
+    height: 580px;
+    margin-left: -15px;
+    overflow-x: hidden;
+    margin-top: -41px;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5em;
+}
+.scroll-container::-webkit-scrollbar {
+    width: 12px;
+}
+.delete-favo{
+width: 32px;
+height: 32px;
+background: #FFFFFF;
+border: 1px solid #FACDCD;
+border-radius: 6px;
+margin-left: 13px;
+}
+.icondelete{
+    margin-top: 5px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+.prix-favo{
+    width: 108px;
+
+}

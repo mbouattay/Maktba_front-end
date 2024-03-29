@@ -1,0 +1,335 @@
+.row-int{
+    padding-top: 1.5%;
+    padding-left: 3%;
+
+    display: flex;
+    flex-direction: column;
+    gap:2em;
+}
+.rowbox-int{
+    display: flex;
+    flex-direction: row;
+    gap:1em;
+}
+.txtbox-int{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+color: #222222;
+
+}
+.box2-int{
+    padding-top: 1.5%;
+    padding-left: 3%;
+
+    display: flex;
+    flex-direction: column;
+    gap:2em;
+}
+.txt3-int{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 20px;
+color: #E66A6A;
+ margin-left: -22%;
+}
+.txt20-int{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 20px;
+    color: #515151;
+     margin-left: -20%;
+    }
+.row4-int{
+    display: flex;
+    flex-direction: row;
+    gap:3em;
+}
+.bnt01-int{
+width: 180px;
+height: 48px;
+background: #222222;
+border-radius: 8px;
+cursor: pointer;
+}
+.row3-int{
+    display: flex;
+    flex-direction: rom;
+    gap:47.5em;
+}
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+
+
+color: #222222;
+}    
+
+.css-1aquho2-MuiTabs{
+
+    background-color: #F7D070;
+}
+.txt1-int{
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+margin-top: -1%;
+text-align: center;
+
+color: #FFFFFF;
+}
+.txt-int{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 48px;
+color: #222222;
+}
+th {
+    text-align: left;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #7E7E7E;
+    border-top: #F7F7F7 solid 1px;
+    height: 56px;
+}
+td {
+    height: 60px;
+    border-top: #F7F7F7 solid 2px;
+}
+.box-int{
+    width: auto;
+height: auto;
+background: #FFFFFF;
+border-radius: 8px;
+padding: 2%;
+}
+.tdwidth{
+    width: 10%;
+}
+.tdwidth02{
+    width: 27%;
+}
+.more-int{
+    cursor: pointer;
+    transform: rotate(90deg)
+}
+.flex-end{
+    display: flex;
+    justify-content: end;
+    }
+    .txtbnt3-inv4{
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 22px;
+        text-align: center; 
+        color: #222222;
+        margin-top: -1%;
+    }
+    .bnt3-inv4{
+        width: 156px;
+    height: 48px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    cursor: pointer;
+    border: none;
+    }
+    .menuitem-listev{
+        display: flex;
+        gap: 0.5em;
+    }
+    .pagination-shop{
+        display: flex;
+        justify-content: center;
+    }
+    .menu-listev{
+        margin-left: -9.3%;
+    }
+.txtbnt3-inv4{
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center; 
+    color: #222222;
+    margin-top: -1%;
+}
+.minirow2-inv4{
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+    margin-top: 7%;
+    margin-left: 17%;
+
+}
+.txtbnt4-inv4{
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+margin-top: -1%;
+    text-align: center;
+    color: #FFFFFF;
+}
+.bnt40-inv4{
+    width: 156px;
+    height: 48px;
+    background: #D64545;
+        border-radius: 8px;
+    cursor: pointer;
+    border: none;
+}
+.txtmodal2-inv4{
+    width: 361px;
+    height: 68px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 34px;
+    text-align: center;
+    color: #222222;
+    
+    }
+
+    
+.row-int01{
+    display: flex;
+    flex-direction:row ;
+gap:1em;
+}
+.txt01-int{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+color: #222222;
+
+}
+.txt02-int{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+text-align: left;
+color: #7C5E10;
+
+}
+.txttabs-int01{
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+
+color: #222222;
+
+}
+.txttabs-int{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+color: #222222;
+}
+.tdwidth1{
+    width: 14%;
+}
+.img1-int{
+    background-blend-mode: multiply, normal;
+mix-blend-mode: normal;
+border-radius: 4px;
+Width:40px;
+Height:40px;
+}
+
+.pagination1-listev{
+    display: flex;
+flex-direction: row;
+gap: 1em;
+}
+.page-listev{
+    display: flex;
+    justify-content: center;
+}
+.select-int{
+    width: 125px;
+height: 36px;
+margin-top: 2%;
+background: #FFFFFF;
+border: 1px solid #CFCFCF;
+border-radius: 8px;
+}
+.txt2-int{
+    width: 100%;
+}
+.input-int{
+    width: 500px;
+height: 48px;
+
+
+background: #FFFFFF;
+
+border: 1px solid #E1E1E1;
+border-radius: 8px;
+}
+.row1-int{
+    display: flex;
+    flex-direction: row;
+    gap: 6.5em;
+}
+.row2-int{
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+}
+.bnt0-int{
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+    cursor: pointer;
+    width: 138px;
+height: 48px;
+padding: 2%;
+background: #FFFFFF;
+border: 1px solid #515151;
+border-radius: 8px;
+}
+.txt0-int{
+    width: 72px;
+margin-top: 0.5%;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 150%;
+
+color: #515151;
+}

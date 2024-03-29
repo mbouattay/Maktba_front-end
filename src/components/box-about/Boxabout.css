@@ -1,0 +1,57 @@
+.box3-about{
+    width: 1876px;
+height: 358px;
+margin-top: 10%;
+background: #F7D070;
+}
+
+.txt14-about{
+ 
+    width: 609px;
+    height: 90px;
+  
+    
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 140%;
+    /* or 45px */
+    
+    text-align: center;
+    
+    color: #222222;
+    }
+    .inpu-about{
+        width: 428px;
+    height: 52px;
+    
+    background: #FFFAEB;
+    border-radius: 10px;
+    }
+    .bnt2-about{
+        width: 157px;
+    height: 52px;
+    cursor: pointer;
+    background: #222222;
+    border-radius: 10px;
+    border: none;
+    }
+    .txt-bntabout{
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 22px;
+        /* identical to box height, or 138% */
+        
+        margin-top: -1%;
+        color: #FFFFFF;
+        
+    }
+    .img-aboutp2{
+        width: 200px;
+        height: 144px;
+        margin-left: -52%;
+        margin-top: -13.4%;
+    }

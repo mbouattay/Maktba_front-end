@@ -1,0 +1,195 @@
+.col3{
+    padding:0% 5%;
+    flex-direction: column;
+    display: flex;
+    gap: 15px ;
+    width: 328px;
+height: 850px;
+background: #FFFFFF;
+box-shadow: 0px 5px 30px rgba(207, 207, 207, 0.2);
+border-radius: 12px;
+}
+
+.input-shop{
+
+    width: 210px;
+    height: 39px;
+
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 133% */
+
+
+color: #9E9E9E;
+    background: #FFFFFF;
+
+    border-radius: 8px;
+}
+.row2-filter{
+    flex-direction: row;
+    display: flex;
+    gap: 5px ;
+}
+.lin{
+    width: 300px;
+    height: 0px;
+    margin-left: 0%;
+    border: 0.75px solid #E2E5EA;
+    transform: rotate(180deg);
+}
+.lin1{
+    width: 32px;
+    height: 0px;
+    border: 1.5px solid #E1E1E1;
+    margin-top: 7%;
+}
+.txt4-shop{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+
+    text-transform: capitalize;
+    color: #222222;
+    }
+    .grbnt{
+        flex-direction: row;
+        display: flex;
+        gap: 1em;
+    }
+    .bnt1-shop{
+        width: 91px;
+        height: 39px;
+        background: #FFFFFF;
+        border: 0.75px solid #C4CBCD;
+        border-radius: 8px;
+    }
+    .txt5-shop{
+
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 21px;
+    
+        color: #222222;
+    }
+    .row-felter1{
+        flex-direction: row;
+        display: flex;
+        gap: 1em; 
+    }
+    .gr5{
+        flex-direction: column;
+        display: flex;
+        gap: 1em; 
+    
+    }
+   
+       .css-14gf62f-MuiSlider-thumb::after{
+
+        max-width: 24px; 
+        max-height:24px ;
+        background: #FFFFFF;
+        border: 2.25px solid #E9B949;
+      }
+
+      .tbnt-shop{
+        cursor: pointer;
+        width: 280px;
+height: 56px;
+left: 159px;
+top: 1008px;
+
+background: #222222;
+border-radius: 8px;
+      }
+      .txt2bnts-shop{
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 20px;
+
+        text-align: center;
+        
+        color: #FFFFFF;
+        margin-top: -1%;
+      }
+      .txt4-shopr{
+        font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+
+
+
+/* black maktaba */
+
+color: #222222;
+
+      }
+      .card-felter1{
+        padding: 8%;
+        margin-left:-6%;
+        flex-direction: column;
+        display: flex;
+        gap: 1em; 
+        width: 328px;
+height: 136px;
+background: #FFFAEB;
+border-radius: 12px 12px 0px 0px;
+      }
+      .bntcard-felter1{
+        width: 94px;
+height: 40px;
+cursor: pointer;
+border: 1px solid #513C06;
+border-radius: 8px;
+
+      }
+      .txtbntcard-felter{
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 12px;
+      line-height: 16px;
+      color: #513C06;
+margin-top: -1%;
+      }
+      .bntcard-felter2{
+        width: 100px;
+height: 40px;
+
+border: 1px solid #513C06;
+border-radius: 8px;
+cursor: pointer;
+      }
+      .txtbntcard-felter2{
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 12px;
+        line-height: 16px;
+        margin-top: -1%;
+        color: #513C06;
+        
+      }
+      .bntcard-felter3{
+        width: 127px;
+height: 40px;
+cursor: pointer;
+border: 1px solid #513C06;
+border-radius: 8px;
+      }
+
+    .bntcard-felter1:hover{
+       background-color: #F7D070;
+      }

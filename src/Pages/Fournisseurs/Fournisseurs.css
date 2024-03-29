@@ -1,0 +1,104 @@
+.Fournisseurs{
+    display: flex;
+    flex-direction: row;
+    background-color: #F7F7F7;
+}
+.nav{
+   display: none;
+}
+.footer{
+    display: none;
+}
+.sidebar-Fournisseurs{
+width: 256px;
+height: 1992px;
+background: #FFFFFF;
+border-right: 1px solid #EEEDF2;
+}
+.sidebar-Fournisseurs .logoside-Fournisseurs{
+width: 85.91px;
+height: 36px;
+margin-top: 34px;
+margin-left: 85px;
+}
+.txt0214-Fournisseurs {
+    width: 200%;
+    margin-top: 4%;
+}
+.sidebar-Fournisseurs .linksidebar-Fournisseurs .link{
+   display: flex;
+   flex-direction: row;
+gap: 1em;
+   margin-top: 28px;
+   padding: 14px 30px 14px 30px;
+   background-color: #FCEFC7;
+   border-left: #C99A2E solid 4px;
+   cursor: pointer;
+}
+.deconnecterbox-Fournisseurs{
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    width: 216px;
+    height: 48px;
+    background: #FFFFFF;
+    border: 1px solid #FFEEEE;
+    border-radius: 8px;
+    margin-left: -3%;
+    margin-top: 288px;
+    cursor: pointer;
+}
+.deconnecterbox-Fournisseurs .iconOut-Fournisseurs{
+    margin-top: 11px;
+    margin-left: 32px;
+}
+.deconnecterbox-Fournisseurs.outText-Fournisseurs{
+font-family:'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+color: #E66A6A;
+margin-left: -15%;
+}
+.linknone-Fournisseurs{
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+    margin-top: 28px;
+    padding: 14px 30px 14px 30px;
+    cursor: pointer;
+}
+.sidebar-Fournisseurs .linksidebar-Fournisseurs  p{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+color: #7E7E7E;
+}
+.profile-container1{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    width: 256px;
+height: 48px;
+cursor: pointer;
+}
+.profile-container1 .profil{
+height: 24px;
+width: 24px;
+border-radius: 4px;
+margin-top: 11px;
+margin-left: 35px;
+
+}
+.profile-container1 .titreProfile{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+color: #7E7E7E;
+margin-left: 30px;
+}

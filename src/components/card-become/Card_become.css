@@ -1,0 +1,166 @@
+.cardt-bec{
+  flex-direction: row;
+  display: flex;
+  gap: 4.2em;
+text-align: left;
+margin-left: 5%;
+}
+.card-becom{
+  padding: 2.5%;
+  width: 220px;
+  height: 368px;
+background: #FFFFFF;
+border: 1px solid #E1E1E1;
+border-radius: 8px;
+cursor: pointer;
+}
+
+.card-becom2{
+  border: 2px solid #F7D070;
+cursor: pointer;
+  padding: 2.5%;
+  width: 220px;
+  height: 368px;
+background: #FFFFFF;
+
+border-radius: 8px;
+}
+.inpradio-becom{
+  Width:20px;
+Height:20px;
+border: 1px solid #9E9E9E;
+  margin-left: 90%;
+}
+.txtcatdbecome1{
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 12px;
+color: #513C06;
+margin-top:-5%;
+}
+.ancatrdbec{
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 28px;
+
+
+
+color: #222222;
+}
+.descriptioncatdbec{
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 16px;
+
+color: #222222;
+}
+.descriptioncatdbe1c{
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 16px;
+width: 90%;
+
+color: #222222;
+}
+
+.row4-car{
+  flex-direction: row;
+  display: flex;
+  gap: 0.4em;
+}
+.txtcatdbecome2{
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 12px;
+margin-top: 5%;
+color: #515151;
+}
+.colcatdbecome1{
+  flex-direction: column;
+  display: flex;
+  gap: 0.1em;
+  margin-top: -10%;
+}
+.inpradio-becom{
+  border: #F7D070;
+}
+.txtcatdbecome3{
+
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height, or 120% */
+
+
+color: #515151;
+margin-top: 5%;
+mix-blend-mode: normal;
+opacity: 0.5;
+}
+.brr{
+  margin-top: 10%;
+}
+.round {
+  position: relative;
+  margin-left: 90%;
+
+}
+
+.round label {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  cursor: pointer;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.round label:after {
+  border: 2px solid #fff;
+  border-top: none;
+  border-right: none;
+  content: "";
+  height: 6px;
+  left: 4px;
+
+  position: absolute;
+  top: 5px;
+  transform: rotate(-45deg);
+  width: 10px;
+}
+
+
+
+.round input[type="radio"]:checked + label {
+  background-color: #F7D070;
+}
+
+.round input[type="radio"]:checked + label:after {
+  opacity: 1;
+}
+
+
+
+
+
+
+
+
+
+

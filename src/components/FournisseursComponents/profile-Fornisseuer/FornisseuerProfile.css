@@ -1,0 +1,167 @@
+.fp{
+    padding: 2%;
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+}
+.txt-select-fp{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+color: #222222;
+}
+.txt1-fp{
+ 
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+    color: #222222;
+}
+.box1-fp{
+    padding: 2%;
+width: 1128px;
+height: auto;
+background: #FFFFFF;
+border-radius: 8px;
+display: flex;
+flex-direction: column;
+gap: 4em;
+}
+.butt-fp{
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+    width: 132px;
+    height: 40px;
+    background: #FFFAEB;
+    border: 1px solid #E9B949;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+.blo-dv{
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}
+.txtbnt-fp{
+    margin-top: 20%;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+color: #222222;
+
+}
+.box3-fp{
+width: 500px;
+height: 168px;
+background: #F7F7F7;
+border-radius: 8px;
+display: flex;
+justify-content: center;
+
+}
+.box1row-fp{
+    display: flex;
+    flex-direction: row;
+    gap: 5em;
+}
+.pbox-fp{
+    width: 40px;
+    height: 40px;
+    background: #FCEFC7;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+}
+.col3-dv{
+    display: flex;
+    flex-direction: column;
+    gap: 2em;  
+}
+.col1-fp{
+    display: flex;
+flex-direction: column;
+gap: 1em;
+}
+.txt2-fp{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+color: #000000;
+}
+.txt3-fp{
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: #222222;
+    }
+
+    .txt4-fp
+    {
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+color: #626262;
+padding-bottom: 2%;
+    }
+
+    .circle-fp{
+        width: 112px;
+        height: 112px;
+        border-radius: 100%;
+        margin-top: 5%;
+        background: #CFCFCF;
+    }
+    .icon-fp{
+        margin-left: 25%;
+        margin-top: 55%;
+    }
+    .col4-fp{
+        display: flex;
+        flex-direction: column;
+        gap: 2em;
+    }
+    .txt-fp{
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        color: #626262;
+        
+    }
+    .input-fp{
+        width: 500px;
+        height: 48px;
+        background: #FFFFFF;
+        border: 1px solid #E1E1E1;
+        border-radius: 8px;
+
+
+    }
+    .col20-fp{
+        flex-direction: column;
+        display: flex;
+        text-align: left;
+        gap: 0.5em;
+    }
+    .lin-fp{
+width: 1072px;
+height: 0px;
+border: 1px solid #E1E1E1;
+    }

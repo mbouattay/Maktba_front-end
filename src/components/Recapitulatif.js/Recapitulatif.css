@@ -1,0 +1,129 @@
+.resume{
+    box-sizing: border-box;
+    width: 303px;
+    height: auto;
+    background: #FFFFFF;
+    border: 1px solid #C4CBCD;
+    border-radius: 8px;
+    margin-left: 96px;
+    margin-top: 64px;    
+}
+.titre2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #222222;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-bottom: 25px;
+}
+.line2{
+    width: 222px;
+    height: 0px;
+    border: 1px solid #C4CBCD;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    margin-left: 40px;
+    width: 222px;
+    margin-top: 24.5px;
+}
+.itemchiffer{
+    text-align: end;
+}
+.itemchiffer p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #222222;
+    margin-bottom: 16px;
+}
+.itemText p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #222222;
+    margin-bottom: 16px;
+
+}
+.reduction{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    color: #222222;
+    margin-top: 24px;
+    margin-left: 40px;
+}
+.inpute_icon{
+        position:relative
+}
+.btn_input{
+    position: absolute;
+    top: 32px;
+    left: 230px;
+    height: 20px;
+    width: 20px;
+    border-radius:5px;
+    border: 1px solid #222222;
+    text-align:"center" 
+    
+}
+.code{
+    box-sizing: border-box;
+    width: 222px;
+    height: 52px;
+    background: #FFFFFF;
+    border: 1px solid #4B4B4B;
+    border-radius: 8px;
+    margin-left: 40px;
+    margin-top: 16px;
+    margin-bottom: 25px;
+}
+.totalTTC{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #222222;
+    margin-left: 43px;
+    margin-top: 25px;
+}
+.totalMontant{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: right;
+    color: #222222;
+    margin-top: 25px;
+    margin-left: -10px;
+}
+.btn-verifie{
+    width: 222px;
+    height: 52px;
+    background: #222222;
+    border-radius: 8px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 24px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+    cursor: pointer;
+    }

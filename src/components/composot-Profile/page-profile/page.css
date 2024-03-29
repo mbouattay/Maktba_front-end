@@ -1,0 +1,401 @@
+.carts2{
+    width: 844px;
+height: 757px;
+margin-bottom: 10%;
+padding: 5%;
+background: #FFFFFF;
+border-radius: 8px;
+}
+.colll-page{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap:1em;
+}
+.txtt-pagemodal{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 34px;
+text-align: center;
+color: #222222;
+}
+.txtt-pagemodal2{
+    width: 294px;
+height: 44px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* or 138% */
+
+text-align: center;
+
+color: #626262;
+}
+.flex-end{
+    display: flex;
+    justify-content: end;
+    }
+.box2-page{
+
+    width: 844px;
+    height: auto;
+
+
+padding: 2%;
+padding-bottom: 4%;
+padding-left: 7%;
+background: #FFFFFF;
+border-radius: 8px;
+
+
+}
+
+.row-page032{
+
+    display: flex;
+    flex-direction: row;
+    gap:0em;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+color: #626262;
+}
+
+
+.box-blok{
+    display: block;
+    background-color: #FFFFFF;
+}
+
+.box-hed{
+    display: none;
+}
+.txtbnt3-page{
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center; 
+    color: #222222;
+    margin-top: -1%;
+}
+.txtbnt4-page{
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+margin-top: -1%;
+    text-align: center;
+    color: #FFFFFF;
+}
+.bnt4-page{
+    width: 156px;
+    height: 48px;
+    background: #222222;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.bnt3-page{
+    width: 156px;
+height: 48px;
+background: #FFFFFF;
+border: 1px solid #222222;
+border-radius: 8px;
+cursor: pointer;
+}
+.minirow-page{
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+    margin-left: 9.5%;
+
+}
+.col0-page {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    gap: 1em;
+
+
+padding-left: 7%;
+background: #FFFFFF;
+}
+.col-page{
+
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    gap: 1em;
+}
+.line-page{
+    width: 748px;
+height: auto;
+margin-left: -3%;
+border: 1px solid #E1E1E1;
+}
+.typographyReponse-page{
+    margin-left: 5%;
+    margin-top: -5%;
+    padding-bottom: 5%;
+}
+
+.box3-page{
+    width: 844px;
+ 
+padding: 2%;
+padding-left: 7%;
+background: #FFFFFF;
+border-radius: 8px;
+
+}
+.txtmodal-page{
+    width: 347px;
+height: 68px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 34px;
+text-align: center;
+color: #222222;
+}
+.txtmodal1-page{
+    width: 294px;
+height: 44px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+text-align: center;
+color: #626262;
+}
+
+.col-page012{
+    display: flex;
+    gap: 1em;
+    height: auto;
+    padding-bottom: 5%;
+    flex-direction: column;
+}
+.txt200-page{
+    cursor: pointer;
+}
+.txt201-page{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 28px;
+color: #222222;
+}
+.row-page{
+    display: flex;
+    gap: 1em;
+    flex-direction: row;
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+text-decoration-line: underline;
+color: #4098D7;
+}
+.bntmodal2-page{
+    width: 194px;
+height: 56px;
+background: #FFFFFF;
+border: 1px solid #E1E1E1;
+border-radius: 8px;
+cursor: pointer;
+}
+.bntmodal3-page{
+    width: 206px;
+    height: 56px;
+    border: none;
+    background: #D64545;
+    border-radius: 8px;
+cursor: pointer;
+
+}
+.fa-close{cursor: pointer;}
+.rowbnt02-page{
+    display: flex;
+    gap: 1em;
+    flex-direction: row;
+   justify-content: center;
+
+}
+.rowbnt-page0321{
+    display: flex;
+    gap: 1em;
+    flex-direction: row;
+    cursor: pointer;
+ margin-top: 4%;
+}
+.rowbnt-page03210{
+    display: flex;
+    gap: 1em;
+    flex-direction: row;
+ margin-left: 10%;
+    cursor: pointer;
+ margin-top: 4%;
+}
+.rowbnt-page{
+    display: flex;
+    gap: 1em;
+    flex-direction: row;
+    cursor: pointer;
+}
+.uplod{
+    visibility: hidden;
+    display: none;
+}
+.minicol-page{
+    display: flex;
+    gap:0.5em;
+    flex-direction: column; 
+}
+.labelup{cursor: pointer;}
+.txt0-profile3{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+margin-top: 50%;
+color: #626262;
+}
+.txt3-profile{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 28px;
+color: #222222;
+
+}
+.avrt-page{
+    border-radius: 100px;
+    Width:150px;
+    Height:150px;
+}
+.bnt-pro3{
+width: 156px;
+height: 48px;
+margin-left: 32%;
+background: #222222;
+border-radius: 8px;
+cursor: pointer;
+border: none;
+}
+.txt-profile3{
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    color: #626262;
+    
+}
+.css-nxo287-MuiInputBase-input-MuiOutlinedInput-input{
+    padding: 11.5px 14px;
+}
+.input-pro{
+    width: 400px;
+height: 48px;
+background: #FFFFFF;
+border: 1px solid #E1E1E1;
+    border-radius: 8px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #222222;
+    padding: 1.2%;
+}
+.col1-page1{
+    flex-direction: column;
+    display: flex;
+    text-align: left;
+    gap: 1em;
+    
+}
+.txt-select-page{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #222222;
+}
+.txt1-profile3{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+color: #9E9E9E;
+}
+.col00-page1{
+    flex-direction: column;
+    display: flex;
+  
+    gap: 1em;
+    
+}
+.avatar-container{
+    position: relative;
+}
+
+.icon-container{
+position: absolute;
+top:99px;
+left:128px;
+background: #FFFFFF;
+border-radius: 100px;
+width: 30px;
+height: 30px;
+cursor: pointer;
+    
+}
+.change-password-form{
+    display: flex;
+    flex-direction: column;
+}
+.change-password-form .label-inpute{
+font-family:'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+color: #626262;
+}
+.input-password{
+box-sizing: border-box;
+width: 400px;
+height: 48px;
+background: #FFFFFF;
+border: 1px solid #E1E1E1;
+border-radius: 8px;
+margin-top: 12px;
+margin-bottom: 28px;
+}
+.rowbnt-page-none,.change-password-form-none{
+    display: none;
+}

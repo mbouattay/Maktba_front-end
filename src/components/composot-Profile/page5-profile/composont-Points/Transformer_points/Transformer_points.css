@@ -1,0 +1,86 @@
+.points{
+    width: 844px;
+    height: auto;
+    padding: 2%;
+    background: #FFFFFF;
+    border-radius: 8px;
+    display: flex;
+    flex-direction:column;
+    gap:2em;
+    }
+    .page-c{
+        display: flex;
+        justify-content: center;
+    }
+    .row-points{
+        display: flex;
+        gap:12.2em;
+    }
+    .txt-points{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 40px;
+    color: #222222;
+    }
+    .bnt-points{
+        cursor: pointer;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+    color: #FFFFFF;
+    width: 264px;
+    height: 48px;
+    background: #222222;
+    border-radius: 8px;
+    }
+    .tdwidth1-points{
+        width: 10%;
+    }
+    td {
+        height: 60px;
+        border-top: #F7F7F7 solid 2px;
+    }
+    th {
+        text-align: left;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 20px;
+        color: #7E7E7E;
+        border-top: #F7F7F7 solid 1px;
+        height: 56px;
+    }
+    .bn010-points{
+     width: 128px;
+    height: 32px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #BA2525;
+    background: #FFEEEE;
+    border: 1px solid #D64545;
+    border-radius: 8px;
+    }
+    .bn0101-points{
+        width: 128px;
+    height: 32px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #3F9142;
+    background: #E3F9E5;
+    border: 1px solid #57AE5B;
+    border-radius: 8px;
+    }

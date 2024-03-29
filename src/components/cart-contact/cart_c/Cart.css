@@ -1,0 +1,81 @@
+.box{
+    Width:    370px;
+    Height:    215px;
+
+    background: #F7D070;
+    border-radius: 10px;
+}
+.local{
+    margin-left: 43%;
+    
+}
+.contun_box{
+    margin-top: 8%;
+}
+.icon-cart{
+    margin-left: 8%;
+    margin-top: 3%;
+    }
+
+    .adr_con{
+        font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    margin-top: 2%;
+    margin-left: 3%;
+    color: #222222;
+    mix-blend-mode: normal;
+    }
+    .txt3{
+        margin-top: 4%;
+        margin-left: 3%;
+        font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    
+    color: #626262;
+    
+    mix-blend-mode: normal;
+    opacity: 0.8;
+    }
+    .txt4{
+        margin-top: 10%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    
+    color: #7C5E10;
+    
+    mix-blend-mode: normal;
+    opacity: 0.8;
+    }
+    @media (max-width: 867px) {
+        .box{
+            Width:328px;
+            Height:215px;
+            margin-left:5%;
+    
+        }
+    }
+    .arrow{
+        margin-left: 69%;
+        margin-top: -4.8%;
+    }
+    @media (min-width: 1280px){
+        .ex{
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: center;
+            gap: 1em;
+         }
+    }

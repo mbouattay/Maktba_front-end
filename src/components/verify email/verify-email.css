@@ -1,0 +1,99 @@
+
+
+.group1{
+    margin-top: 15%;
+}
+.email-pass{
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    color: #1A110A;
+}
+.inpt-pass{
+
+    width: 416px;
+height: 52px;
+
+background: #FFFFFF;
+border: 1px solid #E2E5EA;
+}
+.pass{
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+
+
+color: #FFFFFF;
+
+}
+
+.bnt-pass{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    
+    color: #222222;
+  }
+.bntn1{
+    width: 416px;
+height: 56px;
+border: none;
+cursor: pointer;
+background: #E9B949;
+border-radius: 8px;
+}
+
+    
+
+
+  @media (max-width: 876px) {
+    .email-pass{
+width: 174px;
+ height: 31px;
+margin-left: 1%;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+
+
+color: #1A110A;
+    }
+    .recupere{
+width: 328px;
+height: 90px;
+font-family: 'Merriweather';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 140%;
+color: #222222;
+    }
+    .bntn1{
+        Width:328px;
+        Height:56px;
+
+        }
+    .inpt-pass{
+        Width:328px;
+        Height:52px;
+        margin-top: -35%;
+    }
+    .group1{
+        margin-top: -90%;
+        padding: 100%;
+        margin-left: -120%;
+    }
+    
+    }
